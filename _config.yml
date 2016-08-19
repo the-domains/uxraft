@@ -1,0 +1,28 @@
+name: UXRaft
+favicon: null
+layout_spectrum: 0.32070645899511874
+typography_spectrum: 0.14652171055786312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.751740503590554
+  lightness: 0.9035189759451896
+  saturation: 0.6485581714659929
+  rhythmicContrast: 0.5025159483775496
+purpose: []
